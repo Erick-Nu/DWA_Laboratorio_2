@@ -1,4 +1,4 @@
-# DWA_Laboratorio_2
+# DWA_Laboratorio_2 by Erick Nuñez
 
 Este es el despliegue de la pagina web trabajando con diferentes APIs
 
