@@ -1,15 +1,13 @@
 # DWA_Laboratorio_2
 
 Este es el despliegue de la pagina web trabajando con diferentes APIs
-<div align="center"> <img src="https://github.com/user-attachments/assets/65eca1b8-2216-4fe9-a700-9e644cfe38e9" alt="Página principal" /> </div>
 
-  ![image](https://github.com/user-attachments/assets/65eca1b8-2216-4fe9-a700-9e644cfe38e9)
-
+  <div align="center"> <img src="https://github.com/user-attachments/assets/65eca1b8-2216-4fe9-a700-9e644cfe38e9" alt="Página principal" /> </div>
+  
 Bienvenido a este pequeño laboratorio web que mezcla una divertida galería de memes y GIFs utilizando diferentes APIs.
 Este proyecto combina HTML, CSS, JavaScript y Bootstrap para crear una página interactiva y dinámica.
 
-  ![image](https://github.com/user-attachments/assets/4b4f5859-344b-4ce7-9c7e-21f0eafedb9e)
-
+  <div align="center"> <img src="https://github.com/user-attachments/assets/4b4f5859-344b-4ce7-9c7e-21f0eafedb9e" alt="Vista general" /> </div>
 
 ✨ Funcionalidades
 
