@@ -1,6 +1,7 @@
 # DWA_Laboratorio_2
 
 Este es el despliegue de la pagina web trabajando con diferentes APIs
+<div align="center"> <img src="https://github.com/user-attachments/assets/65eca1b8-2216-4fe9-a700-9e644cfe38e9" alt="Página principal" /> </div>
 
   ![image](https://github.com/user-attachments/assets/65eca1b8-2216-4fe9-a700-9e644cfe38e9)
 
